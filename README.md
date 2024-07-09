@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Tanjim Rahat 👋
+
+🎓 **Engineering Student** | 💻 **Freelance Web Developer** | 🌐 **Tech Enthusiast**
+
+---
+
+### About Me
+
+- 🎓 I am currently an undergraduate student at BUET, Bangladesh, studying Industrial and Production Engineering.
+- 💻 As a freelance web developer, I have a passion for creating dynamic and responsive web applications.
+- 🌟 I love to code and explore new technologies, always on the lookout for the next exciting idea to bring to life.
+- 🚀 Quick learner, always enthusiastic about acquiring new skills and knowledge.
+- 😊 Cheerful and collaborative, I enjoy working with others and contributing to team success.
+
+### Skills
+
+- **Languages**: HTML, CSS, JavaScript, Python, C/C++
+- **Frameworks & Libraries**: React, Node.js, Express, TailwindCSS
+- **Tools & Platforms**: Git, GitHub, VS Code, Figma
+- **Other Interests**: AI, IoT, Smart Devices, Robotics
+
+### Contact Me
+
+- 📫 Feel free to reach out via [email](mailto:tanjim.rahat.dipto@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-tanjim-rahat-544b92223/)
 
 <!--
 **tanjim-rahat/tanjim-rahat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
