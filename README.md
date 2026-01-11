@@ -1,6 +1,6 @@
 # Hi there, I'm Tanjim Rahat 👋
 
-🎓 **Engineering Student** | 💻 **Freelance Web Developer** | 🌐 **Tech Enthusiast**
+**Student** | **Freelancer** | **Tech Enthusiast**
 
 ---
 
